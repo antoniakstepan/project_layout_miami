@@ -19,3 +19,7 @@
 @import "contact.scss";
 @import "footer.scss";
 @import "top.scss";
+
+html {
+  scroll-behavior: smooth;
+}
